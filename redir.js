@@ -1,1 +1,0 @@
-function redir(request, get) { }
